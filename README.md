@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D2B0D,60:0F4A0F,100:00FF41&height=220&section=header&text=Shivprasad%20Lavhat&fontSize=72&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Red%20Team%20Operator%20%C2%B7%20Penetration%20Tester%20%C2%B7%20CTF%20Champion&descAlignY=58&descSize=20&descColor=4dff4d" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2B0000,60:4A0000,100:FF0000&height=220&section=header&text=Shivprasad%20Lavhat&fontSize=72&fontColor=FF2D2D&animation=twinkling&fontAlignY=38&desc=Red%20Team%20Operator%20%C2%B7%20Penetration%20Tester%20%C2%B7%20CTF%20Champion&descAlignY=58&descSize=20&descColor=FF4D4D" width="100%" />
 
 <br/>
 
